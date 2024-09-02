@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cat: MyString
+  raza: MyString
+  description: MyString
+  when_went: 2024-09-01 21:53:22
+
+two:
+  cat: MyString
+  raza: MyString
+  description: MyString
+  when_went: 2024-09-01 21:53:22
